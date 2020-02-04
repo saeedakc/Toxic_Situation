@@ -3,7 +3,7 @@
 Project Description/Outline: Our project is to shine light on the effect of pollution to the Western and Eastern Coastal Regions of the United States. We'll examine relationships between the types of pollutants found on each coast, the effects it has on biodiversity (on water), highlight efforts to rectifying this problem, and more.
 
 Hypothesis:
-There would be more nonpoint sources of pollutants on the West Coast due to an assumed higher population density, GDP, and environmental regulation over the course of 5 years beginning in 2014.
+There would be more non-point sources of pollutants on the West Coast due to an assumed higher population density, GDP, and environmental regulation over the course of 5 years beginning in 2014.
 
 Leading Questions:
 1.  How much non-point and point pollution is on each coast by state that could impact these reults?
