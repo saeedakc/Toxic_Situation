@@ -1,24 +1,3 @@
-﻿State or territory,Method 2 (NOAA)
- Alaska,"33,904 mi"
- Florida,"8,436 mi"
- California,"3,427 mi"
- Hawaii,"1,052 mi"
- Louisiana,"7,721 mi"
- Texas,"3,359 mi"
- North Carolina,"3,375 mi"
- Oregon,"1,410 mi"
- Maine,"3,478 mi"
- Massachusetts,"1,519 mi"
- South Carolina,"2,876 mi"
- Washington,"3,026 mi"
- New Jersey,"1,792 mi"
- New York,"2,625 mi"
- Virginia,"3,315 mi"
- Georgia,"2,344 mi"
- Connecticut,618 mi
- Alabama,607 mi
- Mississippi,359 mi
- Rhode Island,384 mi
- Maryland,"3,190 mi"
- Delaware,381 mi
- New Hampshire,131 mi
+version https://git-lfs.github.com/spec/v1
+oid sha256:a701c41cb9ac2f0d80bd74b7b2143f5cf44eec603729df92b4e7628b990c990a
+size 592
