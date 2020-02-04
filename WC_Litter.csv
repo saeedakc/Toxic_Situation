@@ -1,6 +1,3 @@
-State,Plastic Waste,Foam Waste,Fisherman's Waste,Smoking Waste Items,Misc Food Waste Items,Miscellaneous Waste Items
-"Alaska, USA",17089,17001,4451,11356,10504,13506.0
-"California, USA",1513814,439899,45287,838130,646930,463359.0
-"Hawaii, USA",162594,27640,22564,92206,44719,46293.0
-"Oregon, USA",109147,23946,4098,29913,18316,14395.0
-"Washington, USA",98557,40371,10013,67107,40412,41235.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:50e89543b52b980c7c774bdc3cd153f3682d72f4ef6d6e9751b4bcd5b2adec40
+size 397
