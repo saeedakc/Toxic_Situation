@@ -6,20 +6,20 @@ Hypothesis:
 There would be more non-point sources of pollutants on the West Coast due to an assumed higher population density, GDP, and environmental regulation over the course of 5 years beginning in 2014.
 
 Leading Questions:
-1.  How much non-point and point pollution is on each coast by state that could impact these reults?
-	Non-point - oceanconservancy website
-	Point - NOAA
+1.  How much non-point pollution is on each coast by state that could impact these results?
 
-2.  What is the population density for each state along the coasts that could impact these reults?
+	Non-point - oceanconservancy website
+
+2.  What is the population density for each state along the coasts that could impact these results?
+
 	Census.gov
 
-3.  What is the total estimated GDP for each state along the coasts that could impact these reults?
+3.  What is the total estimated GDP for each state along the coasts that could impact these results?
+
 	https://apps.bea.gov/API/signup/index.cfm
 
 4.  What states have environmental laws or regulations that could impact these results?
 
-
-Research Questions: What type of pollutants are predominantly found in these areas? What are the source of the top two/three primary sources of pollution in these areas? How long has pollutants collected in these regions (specify trends in changes)? What can we do to help truncate the number of pollution built up?
 
 Datasets to be Used: 
 https://www.data.gov/ecosystems/
