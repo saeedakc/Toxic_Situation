@@ -1,6 +1,6 @@
 # Toxic Situation: A Bi-Coastal Perspective
 
-Project Description/Outline: Our project is to shine light on the effect of pollution to the Western and Eastern Coastal Regions of the United States. We'll examine relationships between the types of pollutants found on each coast, the effects it has on biodiversity (on water), highlight efforts to rectifying this problem, and more.
+Project Description/Outline: Our project is to shine light on the amount of pollution on the Western and Eastern Coastal Regions of the United States. We'll examine relationships between the types of pollutants found on each coast, along with the factors that may impact the amounts.
 
 Hypothesis:
 There would be more non-point sources of pollutants on the West Coast due to an assumed higher population density, GDP, and environmental regulation over the course of 5 years beginning in 2014.
