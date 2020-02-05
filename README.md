@@ -1,25 +1,27 @@
 # Toxic Situation: A Bi-Coastal Perspective
 
-Project Description/Outline: Our project is to shine light on the effect of pollution to the Western and Eastern Coastal Regions of the United States. We'll examine relationships between the types of pollutants found on each coast, the effects it has on biodiversity (on water), highlight efforts to rectifying this problem, and more.
+Project Description/Outline: Our project is to shine light on the amount of pollution on the Western and Eastern Coastal Regions of the United States. We'll examine relationships between the types of pollutants found on each coast, along with the factors that may impact the amounts.
+
+Need to unzip the WestCoast.Zip file into the following file path:  'Resources/*.csv'.
 
 Hypothesis:
-The west coast states have more non-point pollution, and the east coast states have more point-pollution, based on the density of oil rigs and oil spills in these regions from 2014 to 2018. The states along the west coast have more non-point pollution based on coastal population density and GDP and environmental regulations.
+There would be more non-point sources of pollutants on the West Coast due to an assumed higher population density, GDP, and environmental regulation over the course of 5 years beginning in 2014.
 
 Leading Questions:
-1.  How much non-point and point pollution is on each coast by state that could impact these reults?
-	Non-point - oceanconservancy website
-	Point - NOAA
+1.  How much non-point pollution is on each coast by state that could impact these results?
 
-2.  What is the population density for each state along the coasts that could impact these reults?
+	Non-point - oceanconservancy website
+
+2.  What is the population density for each state along the coasts that could impact these results?
+
 	Census.gov
 
-3.  What is the total estimated GDP for each state along the coasts that could impact these reults?
+3.  What is the total estimated GDP for each state along the coasts that could impact these results?
+
 	https://apps.bea.gov/API/signup/index.cfm
 
 4.  What states have environmental laws or regulations that could impact these results?
 
-
-Research Questions: What type of pollutants are predominantly found in these areas? What are the source of the top two/three primary sources of pollution in these areas? How long has pollutants collected in these regions (specify trends in changes)? What can we do to help truncate the number of pollution built up?
 
 Datasets to be Used: 
 https://www.data.gov/ecosystems/
