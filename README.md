@@ -2,6 +2,8 @@
 
 Project Description/Outline: Our project is to shine light on the amount of pollution on the Western and Eastern Coastal Regions of the United States. We'll examine relationships between the types of pollutants found on each coast, along with the factors that may impact the amounts.
 
+Need to unzip the WestCoast.Zip file into the following file path:  'Resources/*.csv'.
+
 Hypothesis:
 There would be more non-point sources of pollutants on the West Coast due to an assumed higher population density, GDP, and environmental regulation over the course of 5 years beginning in 2014.
 
